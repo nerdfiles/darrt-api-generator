@@ -13,6 +13,8 @@
   "author": "",
   "license": "WTFPL",
   "dependencies": {
+    "ramda": "^0.27.1",
+    "tcomb": "^3.2.29",
     "yeoman-generator": "^4.12.0"
   }
 }
